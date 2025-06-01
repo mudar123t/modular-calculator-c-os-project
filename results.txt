@@ -1,0 +1,4 @@
+4
+2
+Error: Division by zero
+9
